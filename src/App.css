@@ -17,9 +17,8 @@ body {
   }
 
   @media (max-width: 767px) {
-    body {
- 
-      background: url("../src/assets/imagens/background-mobile.webp") no-repeat ;
-      
+    body { 
+      background: url("../src/assets/imagens/background-mobile.webp") no-repeat ;      
+      overflow-y: hidden; 
       }
   }
