@@ -2,7 +2,7 @@
 
 ## Sobre:
 
-Um projeto simples que utiliza **React**, **HTML**, **CSS** e **JavaScript**, com algumas funcionalidades, como **soma**, **subtração**, **multiplicação**, **divisão** e **cálculo de porcentagem**.
+Um projeto simples que utiliza **HTML**, **CSS** e **ReactJS**, com algumas funcionalidades, como **soma**, **subtração**, **multiplicação**, **divisão** e **cálculo de porcentagem**.
 
 ## Como Instalar:
 
