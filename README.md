@@ -1,5 +1,9 @@
 # Desenvolvido por: [Stefano Pinheiro Gonçalves](https://stefano.dev.br)
 
+## Sobre:
+
+Um projeto simples que utiliza **React**, **HTML**, **CSS** e **JavaScript**, com algumas funcionalidades, como **soma**, **subtração**, **multiplicação**, **divisão** e **cálculo de porcentagem**.
+
 ## Como Instalar:
 
 ### Clonando o projeto
